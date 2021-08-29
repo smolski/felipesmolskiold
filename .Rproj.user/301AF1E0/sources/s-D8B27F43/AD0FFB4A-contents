@@ -13,13 +13,8 @@ main:
   - name: Projects
     url: '#projects'
     weight: 20
-  - name: 🔗 Outros
-    url: '/Others/'
-    weight: 30
-    icon: google-scholar
-    icon_pack: ai
   - name: Apps
-    parent: Outros
+    parent: 🔗 Outros
     url: '/apps/'
   # - name: Talks
   #   url: '#talks'
