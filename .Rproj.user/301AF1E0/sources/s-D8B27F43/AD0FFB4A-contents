@@ -16,7 +16,9 @@ main:
   - name: Apps
     url: '/apps/'
     weight: 30
-    - name: teste
+  - nema: teste
+    parent: Apps
+    url: '/apps/teste'
   # - name: Talks
   #   url: '#talks'
   #   weight: 40
