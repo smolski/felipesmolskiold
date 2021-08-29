@@ -3,7 +3,7 @@
     "path": "D:/Github/felipesmolski2/config/_default/params.yaml",
     "project_path": "config/_default/params.yaml",
     "type": "yaml",
-    "hash": "3817892178",
+    "hash": "1395874984",
     "contents": "",
     "dirty": false,
     "created": 1630264969924.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "2,17",
+        "cursorPosition": "8,16",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1630268766,
+    "lastKnownWriteTime": 1630268832,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1630268766573,
+    "last_content_update": 1630268832028,
     "read_only": false,
     "read_only_alternatives": []
 }
