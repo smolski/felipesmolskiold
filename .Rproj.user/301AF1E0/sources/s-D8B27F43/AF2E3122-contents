@@ -25,6 +25,7 @@ interests:
 
 education:
   courses:
+  - icon: uffs.png
   - course: Msc in Development and Public Policies
     institution: Federal University of South Frontier (UFFS)
     year: 2017
