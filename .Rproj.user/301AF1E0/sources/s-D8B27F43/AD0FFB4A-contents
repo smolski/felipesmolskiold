@@ -14,7 +14,7 @@ main:
     url: '#projects'
     weight: 20
   - name: Outros
-    url: '/outros/'
+    url: '/Others/'
     weight: 30
     icon: google-scholar
     icon_pack: ai
