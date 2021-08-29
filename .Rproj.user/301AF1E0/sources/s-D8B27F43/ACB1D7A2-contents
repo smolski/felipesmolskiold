@@ -1,6 +1,6 @@
 ---
 title: Shiny apps
-cms_exclude: false
+type: "widget_page"  # Page type is a Widget Page
 
 # View.
 #   1 = List
