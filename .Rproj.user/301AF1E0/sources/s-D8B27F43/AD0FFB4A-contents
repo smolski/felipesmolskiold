@@ -13,12 +13,14 @@ main:
   - name: Projects
     url: '#projects'
     weight: 20
-  - name: Apps
-    url: '/apps/'
+  - name: Outros
+    url: '/outros/'
     weight: 30
+    icon: google-scholar
+    icon_pack: ai
   - name: teste
     parent: Apps
-    url: '/apps/teste'
+    url: '/apps'
   # - name: Talks
   #   url: '#talks'
   #   weight: 40
