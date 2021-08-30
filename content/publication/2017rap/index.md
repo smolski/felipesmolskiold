@@ -1,9 +1,7 @@
 ---
-title: "Analysis of the scientific production profile of the journal Brazilian Journal of Public Administratioin (RAP) 
-in the period 2003-16"
+title: "Analysis of the scientific production profile of the journal Brazilian Journal of Public Administration (RAP) in the period 2003-16"
 authors:
 - admin
-- "FMS Smolski"
 - "D Dalcin"
 - "MS Visentini"
 - "J Bamberg"
@@ -21,8 +19,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication = "*Revista de Administração Pública (RAP),  v. 51, n. 6*"
-publication_short = "RAP"publication_short: ""
+publication: "*Journal of Public Administration (RAP),  v. 51, n. 6*"
+publication_short: "RAP"
 
 abstract: In the present paper, an investigation regarding the transformations of studies published in the Brazilian Journal 
 of Public Administration (RAP) from 2003 to 2016 was conducted, through bibliometric research. The main results 
