@@ -1,0 +1,195 @@
+---
+title: "Moeda"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Análise
+
+```{r}
+setwd("D:/Educ/UFFS/Artigos/Moeda")
+```
+
+```{r, message=FALSE}
+library(readr)
+dados <- read_delim("D:/Educ/UFFS/Artigos/Moeda/Pesquisa_Dados_e_Mapas_82.csv", 
+    ";", escape_double = FALSE, trim_ws = TRUE)
+dados=na.omit(dados)
+dados[c(27:33,42:48,57:63)]=NULL
+View(dados)
+```
+
+
+```{r}
+names(dados)
+names(dados)=c("Mun", 
+               "Cod", 
+               "Vinca.2008",
+               "Vinca.2009",
+               "Vinca.2010",
+               "Vinca.2011",
+               "Vinca.2012",
+               "Vinca.2013",
+               "Vinca.2014",
+               "Vinca.2015",
+               "Estab.2008",
+               "Estab.2009",
+               "Estab.2010",
+               "Estab.2011",
+               "Estab.2012",
+               "Estab.2013",
+               "Estab.2014",
+               "Estab.2015",
+               "Vinc.2008",
+               "Vinc.2009",
+               "Vinc.2010",
+               "Vinc.2011",
+               "Vinc.2012",
+               "Vinc.2013",
+               "Vinc.2014",
+               "Vinc.2015",
+               "Credito.2008",
+               "Credito.2009",
+               "Credito.2010",
+               "Credito.2011",
+               "Credito.2012",
+               "Credito.2013",
+               "Credito.2014",
+               "Credito.2015",
+               "Depavista.2008",
+               "Depavista.2009",
+               "Depavista.2010",
+               "Depavista.2011",
+               "Depavista.2012",
+               "Depavista.2013",
+               "Depavista.2014",
+               "Depavista.2015",
+               "Depavistagov.2008",
+               "Depavistagov.2009",
+               "Depavistagov.2010",
+               "Depavistagov.2011",
+               "Depavistagov.2012",
+               "Depavistagov.2013",
+               "Depavistagov.2014",
+               "Depavistagov.2015")
+names(dados)
+```
+
+
+```{r}
+library(tidyr)
+dados2 <- dados %>% gather(Ano, Vinca, 3:10)
+dados2 <- dados2 %>% gather(Ano, Estab, 3:10)
+dados2 <- dados2 %>% gather(Ano, Vinc, 3:10)
+dados2 <- dados2 %>% gather(Ano, Credito, 3:10)
+dados2 <- dados2 %>% gather(Ano, Depavista, 3:10)
+dados2 <- dados2 %>% gather(Ano, Depavistagov, 3:10)
+```
+
+
+```{r, message=FALSE}
+library(readr)
+dados2 <- read_delim("D:/Educ/UFFS/Artigos/Moeda/Pesquisa_Dados_e_Mapas_82 - Copia.csv", 
+    ";", escape_double = FALSE, trim_ws = TRUE)
+summary(dados2)
+dados2[dados2=="-"]=0
+#dados2=na.omit(dados2)
+dados2=as.data.frame(dados2)
+dados2[4:9]=as.numeric(unlist(dados2[4:9]))
+dados2$prefliq=(dados2$Depavistapriv+dados2$Depavistagov)/dados2$Credito
+dados2[is.na(dados2)]=0
+
+dados3=subset(dados2, Credito ==0)
+a=table(as.factor(dados3$Mun))
+names(a)[1]="Mun"
+a=data.frame(a)
+Dados=merge(dados2,a, by="Mun", all.x=TRUE)
+Dados=subset(Dados, Freq =! c(1:8))
+Dados$Freq=NULL
+```
+
+```{r}
+library(plm)
+Dados=pdata.frame(dados2, index=c("Mun","Ano"))
+summary(Dados)
+```
+
+
+```{r}
+reg.pooled=plm(Vinca~prefliq,
+data=Dados, model="pooling")
+summary(reg.pooled)
+```
+
+```{r}
+reg.ef=plm(Vinca~prefliq,
+data=Dados, model="within")
+summary(reg.ef)
+```
+
+```{r}
+summary(fixef(reg.ef))
+```
+
+
+```{r}
+reg.ea=plm(Vinca~prefliq,
+data=Dados, model="random",
+random.method = "walhus")
+summary(reg.ea)
+```
+
+
+
+```{r}
+require(plm)
+pFtest(reg.ef,reg.pooled)
+```
+
+```{r}
+plmtest(reg.pooled, type="bp")
+```
+
+```{r}
+phtest(reg.ef,reg.ea)
+```
+
+```{r}
+pcdtest(reg.ea, test="cd")
+```
+
+```{r}
+shapiro.test(reg.ea$residuals)
+```
+
+```{r}
+library(lmtest)
+bptest(reg.ea)
+```
+
+```{r}
+pbgtest(reg.ea)
+```
+
+
+```{r}
+pwtest(reg.pooled)
+```
+
+
+```{r}
+require(tseries)
+
+adf.test(Dados$prefliq, k=2)
+```
+
+
+```{r}
+library(stargazer)
+
+stargazer(reg.pooled, reg.ef, reg.ea,type = "text", column.labels = c("Pooled", "EF", "EA"), decimal.mark = ",")
+```
+

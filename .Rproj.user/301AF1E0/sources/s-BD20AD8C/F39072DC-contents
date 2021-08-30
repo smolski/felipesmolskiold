@@ -1,0 +1,28 @@
+---
+title: "Produção"
+author: "Felipe Micail da Silva Smolski"
+output:
+  pdf_document:
+    toc: no
+    keep_tex: yes
+    keep_md: yes    
+  word_document:
+    fig_caption: yes
+    keep_md: yes
+    reference_docx: template1.docx
+    toc: no
+    fig_height: 3
+    fig_width: 7
+bibliography: D:/library.bib
+csl: associacao-brasileira-de-normas-tecnicas-ipea.csl
+biblio-style: abntex2cite
+---
+
+# Publications
+
+@Battisti2019a
+
+@rottasmolski2020
+
+
+

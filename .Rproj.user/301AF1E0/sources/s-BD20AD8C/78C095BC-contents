@@ -1,0 +1,149 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={Publications},
+  pdfauthor={Felipe Micail da Silva Smolski},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifluatex
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newlength{\csllabelwidth}
+\setlength{\csllabelwidth}{3em}
+\newenvironment{CSLReferences}[2] % #1 hanging-ident, #2 entry spacing
+ {% don't indent paragraphs
+  \setlength{\parindent}{0pt}
+  % turn on hanging indent if param 1 is 1
+  \ifodd #1 \everypar{\setlength{\hangindent}{\cslhangindent}}\ignorespaces\fi
+  % set entry spacing
+  \ifnum #2 > 0
+  \setlength{\parskip}{#2\baselineskip}
+  \fi
+ }%
+ {}
+\usepackage{calc}
+\newcommand{\CSLBlock}[1]{#1\hfill\break}
+\newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{#1}}
+\newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{#1}\break}
+\newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
+
+\title{Publications}
+\author{Felipe Micail da Silva Smolski}
+\date{}
+
+\begin{document}
+\maketitle
+
+\hypertarget{references}{%
+\section*{References}\label{references}}
+\addcontentsline{toc}{section}{References}
+
+\hypertarget{refs}{}
+\begin{CSLReferences}{0}{0}
+\leavevmode\hypertarget{ref-Battisti2019a}{}%
+BATTISTI, I. D. E.; SMOLSKI, F. M. DA S. \textbf{{Software R: An{á}lise
+estat{í}stica de dados utilizando um programa livre}}. Bag{é}: Faith,
+2019. p. 173
+
+\leavevmode\hypertarget{ref-Lima}{}%
+LIMA, D. M. DE; SMOLSKI, F. M. DA S.; ROTTA, E. {POL{Í}TICAS SOCIAIS E
+DESENVOLVIMENTO: INFLU{Ê}NCIAS IDEOPOL{Í}TICAS NA DEFINI{Ç}{Ã}O DA
+APLICA{Ç}{Ã}O DO FUNDO P{Ú}BLICO E POSS{Í}VEIS REPERCUSS{Õ}ES NA
+DIN{Â}MICA DE DESENVOLVIMENTO DOS MUNIC{Í}PIOS}. \textbf{IX Jornada de
+Inicia{ç}{ã}o Cient{í}fica - Campus Cerro Largo}, 2019.
+
+\leavevmode\hypertarget{ref-Nursalam20162013}{}%
+ROTTA, E. \emph{et al.} {Op{ç}{õ}es ideopol{í}ticas e aplica{ç}{ã}o do
+fundo p{ú}blico em pol{í}ticas sociais: um estudo dos munic{í}pios da
+Regi{ã}o Funcional 7 (RS - Brasil)}. \textbf{LA SAETA UNIVERSITARIA}, v.
+8, n. 1, p. 129--144, 2019.
+
+\leavevmode\hypertarget{ref-rottasmolski2020}{}%
+ROTTA, E.; SMOLSKI, F. M. DA S. {Evolu{ç}{ã}o das despesas p{ú}blicas em
+pol{í}ticas sociais na regi{ã}o funcional 7 e impactos no IDESE}.
+\textbf{Desenvolvimento Regional em Debate}, v. 10, p. 1033--1056, 2020.
+
+\leavevmode\hypertarget{ref-Smolski2017j}{}%
+SMOLSKI, F. M. DA S. \emph{et al.} {An{á}lise do perfil da produ{ç}{ã}o
+cient{í}fica da Revista de Administra{ç}{ã}o P{ú}blica (RAP) no
+per{í}odo 2003-16}. \textbf{Revista de Administra{ç}{ã}o P{ú}blica},
+2017.
+
+\leavevmode\hypertarget{ref-smolski2020}{}%
+SMOLSKI, F. M. DA S. \emph{et al.} {Disponibilidade de leitos
+hospitalares e ventila{ç}{ã}o mec{â}nica no Rio Grande do Sul: desafios
+no enfrentamento da COVID-19}. \textbf{Nota T{é}cnica 1/2020 - Vers{ã}o
+21/05/2020}, 2020.
+
+\leavevmode\hypertarget{ref-Smolski2018a}{}%
+SMOLSKI, F. M. DA S.; AMARAL, G. B. DO; LOPES, H. C. {Crise Financeira
+em Minsky e os Neoschumpeterianos: Converg{ê}ncia Te{ó}rica e
+Implica{ç}{õ}es para o Brasil}. \textbf{O modelo de desenvolvimento
+brasileiro das primeiras d{é}cadas do s{é}culo XXI}, v. 1, p. 86--117,
+2018.
+
+\leavevmode\hypertarget{ref-Smolski2019}{}%
+SMOLSKI, F. M. DA S.; DALCIN, D. {Fragilidade financeira das empresas da
+regi{ã}o noroeste do Rio Grande do Sul: impactos do ciclo de neg{ó}cios
+e das suas caracter{í}sticas individuais}. \textbf{Revista Brasileira de
+Gest{ã}o e Desenvolvimento Regional}, v. 15, n. 5, p. 236--251, 2019.
+
+\end{CSLReferences}
+
+\end{document}
