@@ -1,18 +1,7 @@
 ---
 title: "Publications"
 author: "Felipe Micail da Silva Smolski"
-date: '26-01-2020'
-header:
-  caption: ''
-  image: ''
-editor_options:
-  chunk_output_type: console
-slug: Assignment operators in R
-tags: []
-categories: []
 output:
-  html_document:
-    df_print: paged
   pdf_document:
     toc: no
     keep_tex: yes
@@ -32,7 +21,7 @@ nocite: |
 
 
 
-
+# References
 
 
 
