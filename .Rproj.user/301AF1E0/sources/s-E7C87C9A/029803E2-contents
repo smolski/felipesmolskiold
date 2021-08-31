@@ -2,6 +2,8 @@
 title: "Publications"
 author: "Felipe Micail da Silva Smolski"
 output:
+  html_document:
+    df_print: paged
   pdf_document:
     toc: no
     keep_tex: yes
@@ -21,7 +23,7 @@ nocite: |
 
 
 
-# References
+
 
 
 

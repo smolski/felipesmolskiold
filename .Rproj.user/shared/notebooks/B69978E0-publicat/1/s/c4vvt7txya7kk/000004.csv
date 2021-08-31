@@ -1,0 +1,42 @@
+"0","library(bib2acad)"
+"0","bib2acad("
+"0","  paste("
+"0","    getwd(),"
+"0","    ""library.bib"", "
+"0","               sep = ""/""),"
+"0","         copybib = TRUE, abstract = TRUE, overwrite = TRUE)"
+"1","Overwrite files in 'C:\Users\felip\AppData\Local\Temp\RtmpM5YXBs/my-md-folder' and/or in 'C:\Users\felip\AppData\Local\Temp\RtmpM5YXBs/my-bib-folder'. OK?"
+"1"," "
+"1","
+"
+"1",""
+"1","
+"
+"1","1: Yes"
+"1","
+"
+"1","2: No"
+"1","
+"
+"1",""
+"1","
+"
+"0","1"
+"2","Loading required namespace: bibtex
+"
+"2","Failed with error:  "
+"2",""
+"2","â€˜there is no package called â€˜bibtexâ€™â€™"
+"2",""
+"2","
+"
+"2","Sorry this feature currently cannot be used without the “bibtex” package installed.
+Please install from GitHub using the “remotes” (or “devtools”) package:
+
+remotes::install_github(""ROpenSci/bibtex"")
+"
+"2","Erro: Problem with `mutate()` column `pubtype`.
+[34mi[39m `pubtype = dplyr::case_when(...)`.
+[31mx[39m objeto 'bibtype' nÃ£o encontrado
+[90mRun `rlang::last_error()` to see where the error occurred.[39m
+"
