@@ -11,6 +11,11 @@ editor_options:
 slug: Assignment operators in R
 tags: []
 categories: []
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  focal_point: ""
+  placement: 2
+  preview_only: false
 output:
   html_document:
     df_print: paged
