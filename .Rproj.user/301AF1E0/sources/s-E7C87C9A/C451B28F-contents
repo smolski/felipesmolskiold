@@ -8,10 +8,15 @@ math: true
 author: "Felipe Smolski"
 ---
 
+### Charts
 
-{{< embed-pdf url="publicat.pdf" >}}
+Academic supports the popular [Plotly](https://plot.ly/) chart format.
 
+Save your Plotly JSON in your page folder, for example `chart.json`, and then add the `{{</* chart data="chart" */>}}` shortcode where you would like the chart to appear.
 
+Demo:
+
+{{< chart data="line-chart" >}}
 
 
 
