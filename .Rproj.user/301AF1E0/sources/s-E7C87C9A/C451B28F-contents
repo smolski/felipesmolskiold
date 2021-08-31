@@ -4,8 +4,11 @@ date: '2017-09-26'
 slug: publicationsrmd
 categories: ["biblio"]
 tags: ["tag"]
+author: 
+- Felipe Smolski
 math: true
-author: "Felipe Smolski"
+diagram: true
+highlight: true
 ---
 
 ### Charts
