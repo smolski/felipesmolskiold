@@ -1,7 +1,7 @@
 {
     "id": "C451B28F",
-    "path": "D:/Github/felipesmolski2/content/publications/_index.md",
-    "project_path": "content/publications/_index.md",
+    "path": "D:/Github/felipesmolski2/content/publications/index.md",
+    "project_path": "content/publications/index.md",
     "type": "markdown",
     "hash": "1214856376",
     "contents": "",
@@ -20,7 +20,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1630368164081,
+    "last_content_update": 1630368164,
     "read_only": false,
     "read_only_alternatives": []
 }
