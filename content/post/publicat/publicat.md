@@ -2,6 +2,7 @@
 title: "Publications"
 author: "Felipe Micail da Silva Smolski"
 date: '26-01-2020'
+math: true
 header:
   caption: ''
   image: ''
