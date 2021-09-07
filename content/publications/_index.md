@@ -15,8 +15,4 @@ header:
   image: ""
 ---
 
-- [Distribuições de Frequência](https://smolski.shinyapps.io/distribuicoes/)
-
-- [Stock Market](https://smolski.shinyapps.io/stock/)
-
-- [Monitoramento COVID-19](https://smolski.shinyapps.io/covid19app/)
+<iframe class="flexdashboard" src="https://smolski.netlify.app/publications/index.html" style = "height: 1070px; width: 720px"> </iframe>
