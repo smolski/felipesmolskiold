@@ -15,5 +15,9 @@ header:
   image: ""
 ---
 
-<object data="publicat.pdf" type="application/pdf" width=100%>
+<object data="uploads/publicat.pdf" type="application/pdf" width=100%>
 </object>
+
+
+{{% staticref "uploads/publicat.pdf" "newtab" %}}Download the PDF{{% /staticref %}}
+
