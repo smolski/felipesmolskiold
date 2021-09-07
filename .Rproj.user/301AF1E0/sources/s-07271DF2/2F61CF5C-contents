@@ -10,4 +10,4 @@ tags:
   - dashboard
   - Brazil
 ---
-<iframe class="flexdashboard" src="https://smolski.netlify.app/post/macro/" style = "height: 1070px; width: 720px"> </iframe>
+<iframe class="flexdashboard" src="https://smolski.netlify.app/post/macro/index.html" style = "height: 1070px; width: 720px"> </iframe>
