@@ -15,6 +15,6 @@ tags:
       title="Inline Frame Example"
       width="700"
       height="700"
-      src="smolski.netlify.app/post/macro/">
+      src="https://smolski.netlify.app/post/macro/">
   </iframe>
 </div>
