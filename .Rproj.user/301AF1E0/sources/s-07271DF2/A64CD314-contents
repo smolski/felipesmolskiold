@@ -8,6 +8,8 @@ tags:
   - macro
   - dashboard
   - Brazil
+markdown:
+  escape_markup: true
 ---
 
 <div>
