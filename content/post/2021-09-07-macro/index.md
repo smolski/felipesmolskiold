@@ -11,4 +11,4 @@ tags:
 ---
 
 <iframe class="flexdashboard" src="https://smolski.netlify.app/post/macro/" 
-height="200" width="300" title="my flexdashboard"> </iframe>
+height="100%" width="100%" title="my flexdashboard"> </iframe>
