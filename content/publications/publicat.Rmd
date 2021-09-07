@@ -1,7 +1,7 @@
 ---
-title: "Publications"
+title: ""
 author: "Felipe Micail da Silva Smolski"
-date: '26-01-2020'
+date: '2021-09-07'
 header:
   caption: ''
   image: ''
@@ -13,17 +13,6 @@ categories: []
 output:
   html_document:
     df_print: paged
-  pdf_document:
-    toc: no
-    keep_tex: yes
-    keep_md: yes    
-  word_document:
-    fig_caption: yes
-    keep_md: yes
-    reference_docx: template1.docx
-    toc: no
-    fig_height: 3
-    fig_width: 7
 bibliography: D:/library.bib
 csl: associacao-brasileira-de-normas-tecnicas-ipea.csl
 nocite: |
