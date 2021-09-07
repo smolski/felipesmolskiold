@@ -10,5 +10,11 @@ tags:
   - Brazil
 ---
 
-<iframe class="flexdashboard" src="https://smolski.netlify.app/post/macro/" 
-height="100%" width="100%" title="my flexdashboard"> </iframe>
+<div>
+  <iframe id="inlineFrameExample"
+      title="Inline Frame Example"
+      width="700"
+      height="700"
+      src="smolski.netlify.app/post/macro/">
+  </iframe>
+</div>
