@@ -15,4 +15,5 @@ header:
   image: ""
 ---
 
-<iframe class="flexdashboard" src="https://smolski.netlify.app/publications/index.html" style = "height: 1070px; width: 720px"> </iframe>
+<object data="publicat.pdf" type="application/pdf" width=100%>
+</object>
