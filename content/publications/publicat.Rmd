@@ -1,24 +1,24 @@
 ---
-title: ""
-author: "Felipe Micail da Silva Smolski"
+title: 'Recent Publications'
+author: ""
 date: '2021-09-07'
-header:
-  caption: ''
-  image: ''
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
 editor_options:
   chunk_output_type: console
 slug: Assignment operators in R
 tags: []
 categories: []
-output:
-  html_document:
-    df_print: paged
+header:
+  caption: ''
+  image: ''
 bibliography: D:/library.bib
 csl: associacao-brasileira-de-normas-tecnicas-ipea.csl
-nocite: |
-  @Battisti2019a, @rottasmolski2020, @smolski2020, @Nursalam20162013, @Lima, @Smolski2019, @Smolski2018a, @Smolski2017j, @Rotta2021
+nocite: "@Rotta2021, \n@rottasmolski2020,\n@smolski2020,\n@Battisti2019a,\n@Nursalam20162013,\n@Lima,\n@Smolski2019,\n@Smolski2018a,\n@Smolski2018,\n@Smolski,\n@Smolski2017j,\n"
 ---
-
+\raggedright
 
 
 
