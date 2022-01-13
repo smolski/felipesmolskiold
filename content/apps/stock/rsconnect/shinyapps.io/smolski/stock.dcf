@@ -5,8 +5,9 @@ account: smolski
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 936936
-bundleId: 2094176
+bundleId: 5462889
 url: https://smolski.shinyapps.io/stock/
-when: 1558229813.49537
+when: 1642039238.69356
+lastSyncTime: 1642039238.69356
 asMultiple: FALSE
 asStatic: FALSE
