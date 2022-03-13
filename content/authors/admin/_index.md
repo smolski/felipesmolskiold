@@ -25,6 +25,9 @@ interests:
 
 education:
   courses:
+  - course: Phd in Economics
+    institution: Unisinos University (UNISINOS)
+    year: 2017
   - course: Msc in Development and Public Policies
     institution: Federal University of South Frontier (UFFS)
     year: 2017
