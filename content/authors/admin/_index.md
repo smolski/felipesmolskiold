@@ -25,7 +25,7 @@ interests:
 
 education:
   courses:
-  - course: Phd in Economics
+  - course: Phd in Economics (Organizations, Markets and Innovation)
     institution: Unisinos University (UNISINOS)
     year: 2021-2025
   - course: Msc in Development and Public Policies
