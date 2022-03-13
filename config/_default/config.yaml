@@ -5,7 +5,7 @@
 
 title: FMSS # Website name
 baseurl: 'http://smolski.github.io' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '@2022' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
