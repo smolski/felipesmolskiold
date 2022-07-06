@@ -1,0 +1,52 @@
+RESUMO
+"sugerem que a criminalidade nas cidades gaúchas pode ser
+explicada não apenas pela dinâmica socioeconômica local, mas também
+pela criminalidade dos municípios vizinhos"
+
+
+INTRODUCAO
+ é uma agenda de pesquisa nova
+e pouco consolidada, sendo composta, majoritariamente, por estudos
+realizados nos últimos 10 anos
+
+METODOLOGIA
+To specify correctly the convergence models, we need more information on the nature of the
+spatial dependence present in the data. For this, we turn to the bottom two rows of Table 6 where
+the robust Lagrange multiplier (RLM) tests, as Anselin and Rey (1991) and Anselin, Bera, Florax,
+and Yoon (1996) have shown, can be used to help discriminate between spatial lag (LAG) and
+spatial error (ERR) autocorrelation, the two most common forms of SA. In this case, the robust
+tests suggest that the source of dependence is the spatial lag. The correct specification for the
+β-convergence models at the CD level can thus be expressed as:
+
+
+nome dabela LM:
+Diagnostic tests for spatial dependence models of regional β-convergence measures,
+1996–2006.
+
+CONCLUSAO
+
+Este artigo teve como objetivo investigar os determinantes da
+ criminalidade no Rio Grande do Sul a partir de uma abordagem econométrica espacial.
+
+A principal contribuição deste trabalho...
+
+, os resultados apontados no estudo sugerem que as políticas de segurança precisam 
+dar especial atenção às condições conjunturais
+de educação, trabalho e assistência social nos municípios, sem desconsiderar o
+ padrão espacial da criminalidade
+
+Os resultados sugerem que
+municípios que possuem vizinhos com maior qualidade institucional apresentam pior desempenho em termos
+de desenvolvimento e crescimento econômicos
+
+Os principais setores industriais estão concentrados na região metropolitana de Natal e no
+ município de Mossoró, destacam-se as indústrias de confecção, têxteis e alimentos.
+
+
+
+Resultados
+
+- Estagnação da distribuição espacial das indústrias manufatureiras e na disseminação de
+novos clusters, em especial
+aquelas indústrias de alta e média intensidades tecnológicas;
+- 
