@@ -9,11 +9,14 @@ METODOLOGIA
 https://www.tandfonline.com/doi/pdf/10.1080/21681376.2016.1244774?needAccess=true
 To specify correctly the convergence models, we need more information on the nature of the spatial dependence present in the data. For this, we turn to the bottom two rows of Table 6 where the robust Lagrange multiplier (RLM) tests, as Anselin and Rey (1991) and Anselin, Bera, Florax, and Yoon (1996) have shown, can be used to help discriminate between spatial lag (LAG) and spatial error (ERR) autocorrelation, the two most common forms of SA. In this case, the robust tests suggest that the source of dependence is the spatial lag. The correct specification for the β-convergence models at the CD level can thus be expressed as:
 
+MODELO PARCIMONIOSO
 
 Tabela LM:
 Diagnostic tests for spatial dependence models of regional β-convergence measures, 1996–2006.
 
 CONCLUSAO
+Há depenência espacial, microrregiões com ql alto estão cercados por microrregiões com ql alto.
+
 
 Este artigo teve como objetivo investigar os determinantes da  criminalidade no Rio Grande do Sul a partir de uma abordagem econométrica espacial.
 
