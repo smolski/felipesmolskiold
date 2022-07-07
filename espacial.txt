@@ -37,3 +37,14 @@ Resultados
 - Estagnação da distribuição espacial das indústrias manufatureiras e na disseminação de
 novos clusters, em especial aquelas indústrias de alta e média intensidades tecnológicas;
 - 
+
+******* Pesquisas novas com a base:
+
+- BNDESagro x emprego nos locais (densidade do emprego= emprego/pop)
+- Análise beta convergência e resiliência do QLtvinc ind manuf
+-
+-
+-
+-
+-
+
