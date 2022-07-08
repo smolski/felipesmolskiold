@@ -48,3 +48,52 @@ novos clusters, em especial aquelas indústrias de alta e média intensidades te
 -
 -
 
+**************************************************
+**************************************************
+TA OI
+**************************************************
+**************************************************
+
+# Metod
+
+- Identificação do proprietário da planta: empreendedor, negócios de 
+família, cooperativas... (várias fontes, entrevistas).
+
+- 196 plantas (80% de todas as plantas de 2006 do Centro-Sul).
+
+## Variável dependente:
+
+- Performance operacional: média da performance operacional
+entre 1999-2005, total de sacarose produzida dividida pela quantidade
+total de cana moída durante a estação.
+
+- Variáveis independentes:
+ - **Planta da política industrial**: dummy = 1 se planta foi fundada no período da política;
+ - **Empreendedor da política industrial**: dummy = 1 se planta atualmente pertence a empreendedor 
+que entrou na indústria durante a política pró-alcool.
+ - **Planta adquirida**: dummy = 1 se planta foi adquirida depois do programa pró-alcool, após 1985;
+
+- Divisão em dois sub-períodos:
+ - Plantas fundadas entre 1975-1979; dummy = 1
+ - Plantas fundadas entre 1980-1985; dummy = 1
+
+- Termos com interações:
+ - Planta de políticas industriais x Plantas adquiridas;
+ - Empresário de políticas industriais x Plantas adquiridas (impacto dos empresários
+da política industial que fizeram a aquisição depois do programa);
+ - **Planta da política pós-industrial**: dummy = 1 se planta foi fundada após a política industrial.
+
+
+- Variáveis de controle:
+ - **Cana processada**: quantidade, incluido termo quadrático.
+ - **Proporção da produção de açúcar**: mais termo quadrático.
+ - **Companhia multiplanta**
+ - **Proprietários familiares**
+ - **Propriedade de cooperativa**
+ - **Propriedade de capital extrangeiro**
+
+
+
+
+
+
