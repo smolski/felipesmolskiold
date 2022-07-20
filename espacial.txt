@@ -71,5 +71,11 @@ https://scholar.google.com/scholar?cites=17587517034267630117&as_sdt=2005&sciodt
 (LIVRO) GEOGRAFIA DA INOVAÇÃO Território e Inovação no Brasil no século XXI
 https://www.observatoriodasmetropoles.net.br/wp-content/uploads/2020/03/Geografia-da-Inova%C3%A7%C3%A3o-Territ%C3%B3rio-e-Inova%C3%A7%C3%A3o-no-Brasil-no-s%C3%A9culo-XXI_final.pdf
 
+########
+O texto aborda a Importância dos dados pessoais na nova Economia de Plataformas. Instituições financeiras: devem permitiram portabilidade e interoperabilidade com proteção dos dados em um ambiente de concorrência. Mercados virtualizam-se e agentes econômicos transformam-se em dados, em um cenário de elevação no número de transações e eficiência econômica proporcionada pelas redes.
+
+Facilidade de transacionar e surgimento de novos mercados são as características desta rede de negócios globais proporcionadas pela tecnologia, promovendo a redução de importância da localização geográfica em função das relações virtuais. Trata-se de forma de organização diferenciada de estruturas de mercado e agentes econômicos resultante das reduções dos custos de transação pela utilização das plataformas. Foi impulsionada pelas transformações tecnológicas, internet e capacidade de transmitir e receber dados através de dispositivos móveis, aplicativos e estrutura de armazenamento.
+
+Inovações tecnológicas (blockchain, smart contracts, inteligência artificial, big data, machine learning, deep learning, redes neurais) se diferenciam das novas estruturas de mercado. Mudança de paradigma, avanço da virtualização dos agentes econômicos tanto na demanda como oferta.
 
 
