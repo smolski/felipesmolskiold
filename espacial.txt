@@ -80,6 +80,11 @@ Inovações tecnológicas (blockchain, smart contracts, inteligência artificial
 
 Plataformas são estrutura de mercado diferenciadas? Contratos padronizados? Concepção clássica dos mercados, agentes econômicos atomizados, plataformas com grandes poderes de mercado, com diminuição das barreiras à entrada. Economia de plataforma: nova conformação das estruturas de mercado: virtualização, padronização de contratos e termos contratuais (não seria simplificação ou flexibilização de contratos?), bursatilização dos mercados.
 
+Novo modo de organização dos mercados com as TICS, que é diferente de Economia Compartilhada ou Colaborativa. Ganhos de eficiência em decorrência da redução de falhas de mercado (custos de transação), porém há riscos de desafios no campo dos dados e da concorrência.
+
+III – PODER DE MERCADO E ACIRRAMENTO DA ASSIMETRIA INFORMACIONAL POR MEIO DO CONTROLE DOS DADOS NA ECONOMIA DE PLATAFORMA
+
+Proteção de dados pessoais: visa preservação da concorrência e competição dos mercados e autodeterminação, buscando não comprometimento da eficiência econômica e bem-estar social. Poder econômico se iguala ao poder de controle dos dados.
 
 
 
