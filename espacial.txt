@@ -72,20 +72,11 @@ https://scholar.google.com/scholar?cites=17587517034267630117&as_sdt=2005&sciodt
 https://www.observatoriodasmetropoles.net.br/wp-content/uploads/2020/03/Geografia-da-Inova%C3%A7%C3%A3o-Territ%C3%B3rio-e-Inova%C3%A7%C3%A3o-no-Brasil-no-s%C3%A9culo-XXI_final.pdf
 
 ########
-O texto aborda a Importância dos dados pessoais na nova Economia de Plataformas. Instituições financeiras: devem permitiram portabilidade e interoperabilidade com proteção dos dados em um ambiente de concorrência. Mercados virtualizam-se e agentes econômicos transformam-se em dados, em um cenário de elevação no número de transações e eficiência econômica proporcionada pelas redes.
+OPEN BANKING
 
-Facilidade de transacionar e surgimento de novos mercados são as características desta rede de negócios globais proporcionadas pela tecnologia, promovendo a redução de importância da localização geográfica em função das relações virtuais. Trata-se de forma de organização diferenciada de estruturas de mercado e agentes econômicos resultante das reduções dos custos de transação pela utilização das plataformas. Foi impulsionada pelas transformações tecnológicas, internet e capacidade de transmitir e receber dados através de dispositivos móveis, aplicativos e estrutura de armazenamento.
+- Lei do Sigilo das Operações Bancárias (2001), Lei da Portabilidade (2013), Lei das Fintechs (2018), consulta pública para Open Banking (2019), Regulamentação Poen Banking/Sistema Financeiro Aberto (2020/2021). Open Banking: colaboração entre instituições bancárias e fintechs. Banco Central e CMN.
 
-Inovações tecnológicas (blockchain, smart contracts, inteligência artificial, big data, machine learning, deep learning, redes neurais) se diferenciam das novas estruturas de mercado. Mudança de paradigma, avanço da virtualização dos agentes econômicos tanto na demanda como oferta.
-
-Plataformas são estrutura de mercado diferenciadas? Contratos padronizados? Concepção clássica dos mercados, agentes econômicos atomizados, plataformas com grandes poderes de mercado, com diminuição das barreiras à entrada. Economia de plataforma: nova conformação das estruturas de mercado: virtualização, padronização de contratos e termos contratuais (não seria simplificação ou flexibilização de contratos?), bursatilização dos mercados.
-
-Novo modo de organização dos mercados com as TICS, que é diferente de Economia Compartilhada ou Colaborativa. Ganhos de eficiência em decorrência da redução de falhas de mercado (custos de transação), porém há riscos de desafios no campo dos dados e da concorrência.
-
-III – PODER DE MERCADO E ACIRRAMENTO DA ASSIMETRIA INFORMACIONAL POR MEIO DO CONTROLE DOS DADOS NA ECONOMIA DE PLATAFORMA
-
-Proteção de dados pessoais: visa preservação da concorrência e competição dos mercados e autodeterminação, buscando não comprometimento da eficiência econômica e bem-estar social. Poder econômico se iguala ao poder de controle dos dados.
-
+Open Banking surge com objetivos de  elevar a concorrência  gerar um maior bem-estar social em um país com grande concentração bancária e altas taxas de juros. Consumidores com maior poder de controle (autodeterminação) sobre seus dados garantindo: prtabilidade, interoperabilidade e proteção dos dados.
 
 ########################################
 ##########      IDEIAS TESE   ##########
