@@ -47,6 +47,42 @@ novos clusters, em especial aquelas indústrias de alta e média intensidades te
 -
 -
 -
+########## Projeto
+
+Governo {Empresas/setor produtivo <> universidades}
+
+### Resultados esperados
+- Diversificação produtiva;
+- Empregos, empregos qualificados, geração de renda;
+- Redução das desigualdades socioeconômicas regionais;
+- Transparência, aprimoramento da gestão de resultados, de avaliações;
+- Maior aprendizado interorganizacional, maior competitividade do setor produtivo, maior complexidade econômica.
+- Missões: resolução de problemas persistentes e que tragam objetivos do século XXI (clima, desigualdades, educação, direitos, democracia, transparência, participação, reindustrialização).
+- Integração agro-indústria-serviços;
+### Como?
+
+
+
+---------
+Pesquisa financ indústria
+https://scholar.google.com/scholar?cites=17587517034267630117&as_sdt=2005&sciodt=0,5&hl=pt-BR
+
+-------
+(LIVRO) GEOGRAFIA DA INOVAÇÃO Território e Inovação no Brasil no século XXI
+https://www.observatoriodasmetropoles.net.br/wp-content/uploads/2020/03/Geografia-da-Inova%C3%A7%C3%A3o-Territ%C3%B3rio-e-Inova%C3%A7%C3%A3o-no-Brasil-no-s%C3%A9culo-XXI_final.pdf
+
+########
+OPEN BANKING
+
+- Lei do Sigilo das Operações Bancárias (2001), Lei da Portabilidade (2013), Lei das Fintechs (2018), consulta pública para Open Banking (2019), Regulamentação Poen Banking/Sistema Financeiro Aberto (2020/2021). Open Banking: colaboração entre instituições bancárias e fintechs. Banco Central e CMN.
+
+Open Banking surge com objetivos de  elevar a concorrência  gerar um maior bem-estar social em um país com grande concentração bancária e altas taxas de juros. Consumidores com maior poder de controle (autodeterminação) sobre seus dados garantindo: prtabilidade, interoperabilidade e proteção dos dados.
+
+########################################
+##########      IDEIAS TESE   ##########
+########################################
+- Crédito, sistema financeiro, inovação, indústrialização, empresas e universidades.
+transferência de tecnologias, export led growth.
 
 
 
