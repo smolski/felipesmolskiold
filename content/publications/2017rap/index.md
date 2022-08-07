@@ -6,7 +6,7 @@ authors:
 - MS Visentini
 - J Bamberg
 - JS Kern
-date: "2017-12-01T00:00:00"
+date: "2017-12-01"
 doi: "10.1590/0034-761220170046"
 
 # Schedule page publish date (NOT publication's date).
